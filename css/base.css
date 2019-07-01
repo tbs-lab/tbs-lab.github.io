@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/*
+ * setting to place the footer to the page bottom always
+ */
+
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
