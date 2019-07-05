@@ -2,19 +2,18 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500|Noto+Serif+JP&display=swap&subset=japanese');
 
 /*
- * color definition
- * theme: hanada
+ * theme color: hanada
  */
 
 :root {
-	--base-color: #FCFAF2;
+	--base-color: #FFFFFF;
 	--text-color: #0B1013;
 	--text-color-muted: #434343;
 	--theme-color: #006284;
 }
 
 /*
- * font setting
+ * font
  */
 
 body {
@@ -65,7 +64,7 @@ span {
 }
 
 /*
- * design setting
+ * heading design
  */
 
 body {
